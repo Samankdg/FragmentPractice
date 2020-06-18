@@ -1,4 +1,4 @@
-package com.codepath.fragmentpractice.fragments;
+package com.example.fragmentpractice.fragments;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -11,8 +11,8 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.codepath.fragmentpractice.R;
-import com.codepath.fragmentpractice.data.TODO;
+import com.example.fragmentpractice.R;
+import com.example.fragmentpractice.data.TODO;
 
 public class TODOMenuFragment extends Fragment {
 

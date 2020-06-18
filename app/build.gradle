@@ -5,7 +5,7 @@ android {
     buildToolsVersion '29.0.2'
 
     defaultConfig {
-        applicationId "com.saman.fragmentpractice"
+        applicationId "com.fragmentpractice"
         minSdkVersion 21
         targetSdkVersion 28
         versionCode 1

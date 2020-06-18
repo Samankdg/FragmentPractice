@@ -1,14 +1,13 @@
-package com.codepath.fragmentpractice;
+package com.example.fragmentpractice;
 
-import android.content.res.Configuration;
 import android.os.Bundle;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.appcompat.app.AppCompatActivity;
-import android.util.Log;
+
 import android.widget.Toast;
 
-import com.codepath.fragmentpractice.fragments.TODODetailsFragment;
-import com.codepath.fragmentpractice.fragments.TODOMenuFragment;
+import com.example.fragmentpractice.fragments.TODODetailsFragment;
+import com.example.fragmentpractice.fragments.TODOMenuFragment;
 
 public class MainActivity extends AppCompatActivity  implements TODOMenuFragment.OnItemSelectedListener {
 

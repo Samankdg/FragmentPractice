@@ -1,4 +1,4 @@
-package com.codepath.fragmentpractice.fragments;
+package com.example.fragmentpractice.fragments;
 
 import android.os.Bundle;
 import androidx.annotation.Nullable;
@@ -8,8 +8,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.codepath.fragmentpractice.R;
-import com.codepath.fragmentpractice.data.TODO;
+import com.example.fragmentpractice.R;
+import com.example.fragmentpractice.data.TODO;
 
 public class TODODetailsFragment extends Fragment {
   int position = 0;

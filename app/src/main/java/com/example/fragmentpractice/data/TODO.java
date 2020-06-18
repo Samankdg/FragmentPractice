@@ -1,4 +1,4 @@
-package com.codepath.fragmentpractice.data;
+package com.example.fragmentpractice.data;
 
 public class TODO {
 
